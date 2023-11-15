@@ -1,6 +1,5 @@
 
-# Publications by Werner Van Geit
-
+# Scientific publications by Werner Van Geit
 
 ## Papers
 

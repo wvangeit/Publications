@@ -39,8 +39,7 @@ def main():
         md[pub_type] = put_bullet_points(md[pub_type])
 
     output = f"""
-# Publications by Werner Van Geit
-
+# Scientific publications by Werner Van Geit
 
 ## Papers
 
