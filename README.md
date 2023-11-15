@@ -65,11 +65,6 @@
 *PLoS computational biology*, 16\(2\):e1007696, 2020\.
 [doi:10\.1371/journal\.pcbi\.1007696](https://doi.org/10.1371/journal.pcbi.1007696)\.  
 
-* Elisabetta Iavarone, Jane Yi, Ying Shi, Bas\-Jan Zandt, Christian O’reilly, Werner Van Geit, Christian Rössert, Henry Markram, and Sean L Hill\.
-**Experimentally\-constrained biophysical models of tonic and burst firing modes in thalamocortical neurons**\.
-*PLoS computational biology*, 15\(5\):e1006753, 2019\.
-[doi:10\.1371/journal\.pcbi\.1006753](https://doi.org/10.1371/journal.pcbi.1006753)\.  
-
 * Padraig Gleeson, Matteo Cantarelli, Boris Marin, Adrian Quintana, Matt Earnshaw, Sadra Sadeh, Eugenio Piasini, Justas Birgiolas, Robert C Cannon, N Alex Cayco\-Gajic, and others\.
 **Open source brain: a collaborative resource for visualizing, analyzing, simulating, and developing standardized models of neurons and circuits**\.
 *Neuron*, 103\(3\):395–411, 2019\.
@@ -99,6 +94,11 @@ URL: [http://www\.frontiersin\.org/neuroinformatics/10\.3389/fninf\.2016\.00017/
 **Reconstruction and simulation of neocortical microcircuitry**\.
 *Cell*, 163\(2\):456–492, October 2015\.
 [doi:10\.1016/j\.cell\.2015\.09\.029](https://doi.org/10.1016/j.cell.2015.09.029)\.  
+
+* Srikanth Ramaswamy, Jean\-Denis Courcol, Marwan Abdellah, Stanislaw R Adaszewski, Nicolas Antille, Selim Arsever, Guy Atenekeng, Ahmet Bilgili, Yury Brukau, Athanassia Chalimourda, and others\.
+**The neocortical microcircuit collaboration portal: a resource for rat somatosensory cortex**\.
+*Frontiers in neural circuits*, 9:44, 2015\.
+[doi:10\.3389/fncir\.2015\.00044](https://doi.org/10.3389/fncir.2015.00044)\.  
 
 * Werner Van Geit, Erik De Schutter, and Pablo Achard\.
 **Automated neuron model optimization techniques: a review**\.
@@ -133,6 +133,22 @@ Preprint, Neuroscience, August 2022\.
 **Modeling and simulation of rat non\-barrel somatosensory cortex\. part i: modeling anatomy**\.
 Preprint, Neuroscience, 2022\.
 [doi:10\.1101/2022\.08\.11\.503144](https://doi.org/10.1101/2022.08.11.503144)\.  
+
+
+## Book chapters
+
+
+* E De Schutter and Werner Van Geit\.
+**Modeling complex neurons**\.
+In *Computational modeling methods for neuroscientists*, pages 259–84\.
+MIT Press Cambridge, 2009\.
+[doi:10\.7551/mitpress/7543\.003\.0013](https://doi.org/10.7551/mitpress/7543.003.0013)\.  
+
+* Pablo Achard, Werner Van Geit, Gwendal LeMasson, and E De Schutter\.
+**Parameter searching**\.
+In *Computational modeling methods for neuroscientists*, pages 31–60\.
+MIT Press Cambridge, 2009\.
+[doi:https://doi\.org/10\.7551/mitpress/7543\.003\.0004](https://doi.org/https://doi.org/10.7551/mitpress/7543.003.0004)\.  
 
 
     

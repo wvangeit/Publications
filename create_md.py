@@ -13,23 +13,19 @@ def main():
     bibtex_folder = working_directory / "bibtex_input"
     md_path = working_directory / "README.md"
 
-    papers_path = bibtex_folder / "wvg_papers.bib"  # from zotero
-    preprints_path = bibtex_folder / "wvg_preprints.bib"  # from zotero
-
     new_style = NewStyle
 
     engine = pybtex.PybtexEngine()
 
-    md_papers = engine.format_from_files(
-        [papers_path], style=new_style, output_backend="markdown"
-    )
+    md = {}
+    pub_types = ["papers", "preprints", "chapters"]
+    for pub_type in pub_types:
+        bibtex_path = bibtex_folder / f"wvg_{pub_type}.bib"
+        md[pub_type] = engine.format_from_files(
+            [bibtex_path], style=new_style, output_backend="markdown"
+        )
 
-    md_preprints = engine.format_from_files(
-        [preprints_path], style=new_style, output_backend="markdown"
-    )
-
-    md_papers = put_bullet_points(md_papers)
-    md_preprints = put_bullet_points(md_preprints)
+        md[pub_type] = put_bullet_points(md[pub_type])
 
     output = f"""
 # Publications by Werner Van Geit
@@ -37,11 +33,15 @@ def main():
 
 ## Papers
 
-{md_papers}
+{md['papers']}
 
 ## Preprints
 
-{md_preprints}
+{md['preprints']}
+
+## Book chapters
+
+{md['chapters']}
 
     """
 
