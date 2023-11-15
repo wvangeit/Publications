@@ -34,13 +34,15 @@ def main():
     output = f"""
 # Publications by Werner Van Geit
 
-## Preprints
-
-{md_preprints}
 
 ## Papers
 
 {md_papers}
+
+## Preprints
+
+{md_preprints}
+
     """
 
     # -- write down markdown wiki -- #

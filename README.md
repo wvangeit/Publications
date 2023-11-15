@@ -1,33 +1,6 @@
 
 # Publications by Werner Van Geit
 
-## Preprints
-
-
-* Armando Romani, Alberto Antonietti, Davide Bella, Julian Budd, Elisabetta Giacalone, Kerem Kurban, Sára Sáray, Marwan Abdellah, Alexis Arnaudon, Elvis Boci, Cristina Colangelo, Jean\-Denis Courcol, Thomas Delemontex, András Ecker, Joanne Falck, Cyrille Favreau, Michael Gevaert, Juan B\. Hernando, Joni Herttuainen, Genrich Ivaska, Lida Kanari, Anna\-Kristin Kaufmann, James Gonzalo King, Pramod Kumbhar, Sigrun Lange, Huanxiang Lu, Carmen Alina Lupascu, Rosanna Migliore, Fabien Petitjean, Judit Planas, Pranav Rai, Srikanth Ramaswamy, Michael W\. Reimann, Juan Luis Riquelme, Nadir Román Guerrero, Ying Shi, Vishal Sood, Mohameth François Sy, Werner Van Geit, Liesbeth Vanherpe, Tamás F\. Freund, Audrey Mercer, Eilif Muller, Felix Schürmann, Alex M\. Thomson, Michele Migliore, Szabolcs Káli, and Henry Markram\.
-**Community\-based Reconstruction and Simulation of a Full\-scale Model of Region CA1 of Rat Hippocampus**\.
-Preprint, Neuroscience, May 2023\.
-[doi:10\.1101/2023\.05\.17\.541167](https://doi.org/10.1101/2023.05.17.541167)\.  
-
-* James B Isbister, András Ecker, Christoph Pokorny, Sirio Bolaños\-Puchet, Daniela Egas Santander, Alexis Arnaudon, Omar Awile, Natali Barros\-Zulaica, Jorge Blanco Alonso, Elvis Boci, Giuseppe Chindemi, Jean\-Denis Courcol, Tanguy Damart, Thomas Delemontex, Alexander Dietz, Gianluca Ficarelli, Mike Gevaert, Joni Herttuainen, Genrich Ivaska, Weina Ji, Daniel Keller, James King, Pramod Kumbhar, Samuel Lapere, Polina Litvak, Darshan Mandge, Eilif B\. Muller, Fernando Pereira, Judit Planas, Rajnish Ranjan, Maria Reva, Armando Romani, Christian Rössert, Felix Schürmann, Vishal Sood, Aleksandra Teska, Anil Tuncel, Werner Van Geit, Matthias Wolf, Henry Markram, Srikanth Ramaswamy, and Michael W\. Reimann\.
-**Modeling and Simulation of Neocortical Micro\- and Mesocircuitry\. Part II: Physiology and Experimentation**\.
-Preprint, Neuroscience, May 2023\.
-[doi:10\.1101/2023\.05\.17\.541168](https://doi.org/10.1101/2023.05.17.541168)\.  
-
-* Alessio Paolo Buccino, Tanguy Damart, Julian Bartram, Darshan Mandge, Xiaohan Xue, Mickael Zbili, Tobias Gänswein, Aurélien Jaquier, Vishalini Emmenegger, Henry Markram, Andreas Hierlemann, and Werner Van Geit\.
-**A multi\-modal fitting approach to construct single\-neuron models with patch clamp and high\-density microelectrode arrays**\.
-Preprint, Neuroscience, August 2022\.
-[doi:10\.1101/2022\.08\.03\.502468](https://doi.org/10.1101/2022.08.03.502468)\.  
-
-* Elisabetta Iavarone, Jane Simko, Ying Shi, Marine Bertschy, María García\-Amado, Polina Litvak, Anna\-Kristin Kaufmann, Christian O'Reilly, Oren Amsalem, Marwan Abdellah, Grigori Chevtchenko, Benoît Coste, Jean\-Denis Courcol, András Ecker, Cyrille Favreau, Adrien Christian Fleury, Werner Van Geit, Michael Gevaert, Nadir Román Guerrero, Joni Herttuainen, Genrich Ivaska, Samuel Kerrien, James G\. King, Pramod Kumbhar, Patrycja Lurie, Ioannis Magkanaris, Vignayanandam Ravindernath Muddapu, Jayakrishnan Nair, Fernando L\. Pereira, Rodrigo Perin, Fabien Petitjean, Rajnish Ranjan, Michael Reimann, Liviu Soltuzu, Mohameth François Sy, M\. Anıl Tuncel, Alexander Ulbrich, Matthias Wolf, Francisco Clascá, Henry Markram, and Sean L\. Hill\.
-**Thalamic control of sensory enhancement and sleep spindle properties in a biophysical model of thalamoreticular microcircuitry**\.
-Preprint, Neuroscience, March 2022\.
-[doi:10\.1101/2022\.02\.28\.482273](https://doi.org/10.1101/2022.02.28.482273)\.  
-
-* Michael W Reimann, Sirio Bolaños\-Puchet, Jean\-Denis Courcol, Daniela Egas Santander, Alexis Arnaudon, Benoît Coste, Thomas Delemontex, Adrien Devresse, Hugo Dictus, Alexander Dietz, and others\.
-**Modeling and simulation of rat non\-barrel somatosensory cortex\. part i: modeling anatomy**\.
-Preprint, Neuroscience, 2022\.  
-
 
 ## Papers
 
@@ -35,11 +8,12 @@ Preprint, Neuroscience, 2022\.
 * Konstantin Weise, Torge Worbs, Benjamin Kalloch, Victor H\. Souza, Aurélien Tristan Jaquier, Werner Van Geit, Axel Thielscher, and Thomas R\. Knösche\.
 **Directional Sensitivity of Cortical Neurons Towards TMS Induced Electric Fields**\.
 *Imaging Neuroscience*, 11 2023\.
-URL: [https://doi\.org/10\.1162/imag\\\_a\\\_00036](https://doi.org/10.1162/imag\_a\_00036), [arXiv:https://direct\.mit\.edu/imag/article\-pdf/doi/10\.1162/imag\\\_a\\\_00036/2175589/imag\\\_a\\\_00036\.pdf](https://arxiv.org/abs/https://direct.mit.edu/imag/article-pdf/doi/10.1162/imag\_a\_00036/2175589/imag\_a\_00036.pdf), [doi:10\.1162/imag\_a\_00036](https://doi.org/10.1162/imag_a_00036)\.  
+[doi:10\.1162/imag\_a\_00036](https://doi.org/10.1162/imag_a_00036)\.  
 
 * Alexis Arnaudon, Maria Reva, Mickael Zbili, Henry Markram, Werner Van Geit, and Lida Kanari\.
 **Controlling morpho\-electrophysiological variability of neurons with detailed biophysical models**\.
-*iScience*, 2023\.  
+*iScience*, 2023\.
+[doi:https://doi\.org/10\.1016/j\.isci\.2023\.108222](https://doi.org/https://doi.org/10.1016/j.isci.2023.108222)\.  
 
 * Maria Reva, Christian Rössert, Alexis Arnaudon, Tanguy Damart, Darshan Mandge, Anıl Tuncel, Srikanth Ramaswamy, Henry Markram, and Werner Van Geit\.
 **A universal workflow for creation, validation, and generalization of detailed neuronal models**\.
@@ -49,6 +23,10 @@ URL: [https://www\.sciencedirect\.com/science/article/pii/S2666389923002398](htt
 * Yina Wei, Anirban Nandi, Xiaoxuan Jia, Joshua H Siegle, Daniel Denman, Soo Yeun Lee, Anatoly Buchin, Werner Van Geit, Clayton P Mosher, Shawn Olsen, and others\.
 **Associations between in vitro, in vivo and in silico cell classes in mouse primary visual cortex**\.
 *Nature Communications*, 14\(1\):2344, 2023\.  
+
+* Elisabetta Iavarone, Jane Simko, Ying Shi, Marine Bertschy, María García\-Amado, Polina Litvak, Anna\-Kristin Kaufmann, Christian O’Reilly, Oren Amsalem, Marwan Abdellah, and others\.
+**Thalamic control of sensory processing and spindles in a biophysical somatosensory thalamoreticular circuit model of wakefulness and sleep**\.
+*Cell Reports*, 2023\.  
 
 * Giuseppe Chindemi, Marwan Abdellah, Oren Amsalem, Ruth Benavides\-Piccione, Vincent Delattre, Michael Doron, András Ecker, Aurélien T\. Jaquier, James King, Pramod Kumbhar, Caitlin Monney, Rodrigo Perin, Christian Rössert, Anil M\. Tuncel, Werner Van Geit, Javier DeFelipe, Michael Graupner, Idan Segev, Henry Markram, and Eilif B\. Muller\.
 **A calcium\-based plasticity model for predicting long\-term potentiation and depression in the neocortex**\.
@@ -114,12 +92,37 @@ URL: [http://www\.frontiersin\.org/neuroinformatics/10\.3389/fninf\.2016\.00017/
 **Reconstruction and simulation of neocortical microcircuitry**\.
 *Cell*, 163\(2\):456–492, 2015\.  
 
-* W Van Geit, E De Schutter, and P Achard\.
+* Werner Van Geit, Erik De Schutter, and Pablo Achard\.
 **Automated neuron model optimization techniques: a review**\.
 *Biological cybernetics*, 99\(4\-5\):241–251, 2008\.  
 
 * Werner Van Geit, Pablo Achard, and Erik De Schutter\.
 **Neurofitter: a parameter tuning package for a wide range of electrophysiological neuron models**\.
 *Frontiers in neuroinformatics*, 1:89, 2007\.  
+
+
+## Preprints
+
+
+* James B Isbister, András Ecker, Christoph Pokorny, Sirio Bolaños\-Puchet, Daniela Egas Santander, Alexis Arnaudon, Omar Awile, Natali Barros\-Zulaica, Jorge Blanco Alonso, Elvis Boci, Giuseppe Chindemi, Jean\-Denis Courcol, Tanguy Damart, Thomas Delemontex, Alexander Dietz, Gianluca Ficarelli, Mike Gevaert, Joni Herttuainen, Genrich Ivaska, Weina Ji, Daniel Keller, James King, Pramod Kumbhar, Samuel Lapere, Polina Litvak, Darshan Mandge, Eilif B\. Muller, Fernando Pereira, Judit Planas, Rajnish Ranjan, Maria Reva, Armando Romani, Christian Rössert, Felix Schürmann, Vishal Sood, Aleksandra Teska, Anil Tuncel, Werner Van Geit, Matthias Wolf, Henry Markram, Srikanth Ramaswamy, and Michael W\. Reimann\.
+**Modeling and Simulation of Neocortical Micro\- and Mesocircuitry\. Part II: Physiology and Experimentation**\.
+Preprint, Neuroscience, May 2023\.
+[doi:10\.1101/2023\.05\.17\.541168](https://doi.org/10.1101/2023.05.17.541168)\.  
+
+* Armando Romani, Alberto Antonietti, Davide Bella, Julian Budd, Elisabetta Giacalone, Kerem Kurban, Sára Sáray, Marwan Abdellah, Alexis Arnaudon, Elvis Boci, Cristina Colangelo, Jean\-Denis Courcol, Thomas Delemontex, András Ecker, Joanne Falck, Cyrille Favreau, Michael Gevaert, Juan B\. Hernando, Joni Herttuainen, Genrich Ivaska, Lida Kanari, Anna\-Kristin Kaufmann, James Gonzalo King, Pramod Kumbhar, Sigrun Lange, Huanxiang Lu, Carmen Alina Lupascu, Rosanna Migliore, Fabien Petitjean, Judit Planas, Pranav Rai, Srikanth Ramaswamy, Michael W\. Reimann, Juan Luis Riquelme, Nadir Román Guerrero, Ying Shi, Vishal Sood, Mohameth François Sy, Werner Van Geit, Liesbeth Vanherpe, Tamás F\. Freund, Audrey Mercer, Eilif Muller, Felix Schürmann, Alex M\. Thomson, Michele Migliore, Szabolcs Káli, and Henry Markram\.
+**Community\-based Reconstruction and Simulation of a Full\-scale Model of Region CA1 of Rat Hippocampus**\.
+Preprint, Neuroscience, May 2023\.
+[doi:10\.1101/2023\.05\.17\.541167](https://doi.org/10.1101/2023.05.17.541167)\.  
+
+* Alessio Paolo Buccino, Tanguy Damart, Julian Bartram, Darshan Mandge, Xiaohan Xue, Mickael Zbili, Tobias Gänswein, Aurélien Jaquier, Vishalini Emmenegger, Henry Markram, Andreas Hierlemann, and Werner Van Geit\.
+**A multi\-modal fitting approach to construct single\-neuron models with patch clamp and high\-density microelectrode arrays**\.
+Preprint, Neuroscience, August 2022\.
+[doi:10\.1101/2022\.08\.03\.502468](https://doi.org/10.1101/2022.08.03.502468)\.  
+
+* Michael W Reimann, Sirio Bolaños\-Puchet, Jean\-Denis Courcol, Daniela Egas Santander, Alexis Arnaudon, Benoît Coste, Thomas Delemontex, Adrien Devresse, Hugo Dictus, Alexander Dietz, and others\.
+**Modeling and simulation of rat non\-barrel somatosensory cortex\. part i: modeling anatomy**\.
+Preprint, Neuroscience, 2022\.
+[doi:10\.1101/2022\.08\.11\.503144](https://doi.org/10.1101/2022.08.11.503144)\.  
+
 
     
