@@ -65,7 +65,7 @@ class NewStyle(pybtex_unsrt.Style):
 def put_bullet_points(input):
     """Replace references by bullet points."""
     to_replace = r"\[[0-9]+\]"
-    return re.sub(to_replace, "*", input)
+    return re.sub(to_replace, "\n*", input)
 
 
 if __name__ == "__main__":

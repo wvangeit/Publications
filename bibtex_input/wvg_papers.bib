@@ -1,18 +1,19 @@
-@ARTICLE{bluepyopt,
-AUTHOR={Van Geit, Werner  and  Gevaert, Michael  and  Chindemi, Giuseppe  and  Rössert, Christian  and  Courcol, Jean-Denis  and  Muller, Eilif Benjamin  and  Schürmann, Felix  and  Segev, Idan  and  Markram, Henry},
-TITLE={BluePyOpt: Leveraging open source software and cloud infrastructure to optimise model parameters in neuroscience},
-JOURNAL={Frontiers in Neuroinformatics},
-VOLUME={10},
-YEAR={2016},
-NUMBER={17},
-URL={http://www.frontiersin.org/neuroinformatics/10.3389/fninf.2016.00017/abstract},
-DOI={10.3389/fninf.2016.00017},
-ISSN={1662-5196}
+@article{10.1162/imag_a_00036,
+    author = {Weise, Konstantin and Worbs, Torge and Kalloch, Benjamin and Souza, Victor H. and Jaquier, Aurélien Tristan and Van Geit, Werner and Thielscher, Axel and Knösche, Thomas R.},
+    title = "{Directional Sensitivity of Cortical Neurons Towards TMS Induced Electric Fields}",
+    journal = {Imaging Neuroscience},
+    year = {2023},
+    month = {11},
+    abstract = "{We derived computationally efficient average response models of different types of cortical neurons, which are subject to external electric fields from Transcranial Magnetic Stimulation. We used 24 reconstructions of pyramidal cells (PC) from layer 2/3, 245 small, nested, and large basket cells from layer 4, and 30 PC from layer 5 with different morphologies for deriving average models. With these models, it is possible to efficiently estimate the stimulation thresholds depending on the underlying electric field distribution in the brain, without having to implement and compute complex neuron compartment models. The stimulation thresholds were determined by exposing the neurons to TMS-induced electric fields with different angles, intensities, pulse waveforms, and field decays along the somato-dendritic axis. The derived average response models were verified by reference simulations using a high-resolution realistic head model containing several million neurons. The relative errors of the estimated thresholds between the average model and the reference model ranged between -3\\% and 3.7\\% in 98\\% of the cases, while the computation time was only a fraction of a second compared to several weeks. Finally, we compared the model behavior to TMS experiments and observed high correspondence to the orientation sensitivity of motor evoked potentials. The derived models were compared to the classical cortical column cosine model and to simplified ball-and-stick neurons. It was shown that both models oversimplify the complex interplay between the electric field and the neurons and do not adequately represent the directional sensitivity of the different cell typesThe derived models are simple to apply and only require the TMS induced electric field in the brain as input variable. The models and code are available to the general public in open-source repositories for integration into TMS studies to estimate the expected stimulation thresholds for an improved dosing and treatment planning in the future}",
+    issn = {2837-6056},
+    doi = {10.1162/imag_a_00036},
+    url = {https://doi.org/10.1162/imag\_a\_00036},
+    eprint = {https://direct.mit.edu/imag/article-pdf/doi/10.1162/imag\_a\_00036/2175589/imag\_a\_00036.pdf},
 }
 
 @article{arnaudony2023controlling,
   title={Controlling morpho-electrophysiological variability of neurons with detailed biophysical models},
-  author={Arnaudony, Alexis and Reva, Maria and Zbili, Mickael and Markram, Henry and Van Geit, Werner and Kanari, Lida},
+  author={Arnaudon, Alexis and Reva, Maria and Zbili, Mickael and Markram, Henry and Van Geit, Werner and Kanari, Lida},
   journal={iScience},
   year={2023},
   publisher={Elsevier}
@@ -31,6 +32,17 @@ url = {https://www.sciencedirect.com/science/article/pii/S2666389923002398},
 author = {Maria Reva and Christian Rössert and Alexis Arnaudon and Tanguy Damart and Darshan Mandge and Anıl Tuncel and Srikanth Ramaswamy and Henry Markram and Werner {Van Geit}},
 abstract = {Summary
 Detailed single-neuron modeling is widely used to study neuronal functions. While cellular and functional diversity across the mammalian cortex is vast, most of the available computational tools focus on a limited set of specific features characteristic of a single neuron. Here, we present a generalized automated workflow for the creation of robust electrical models and illustrate its performance by building cell models for the rat somatosensory cortex. Each model is based on a 3D morphological reconstruction and a set of ionic mechanisms. We use an evolutionary algorithm to optimize neuronal parameters to match the electrophysiological features extracted from experimental data. Then we validate the optimized models against additional stimuli and assess their generalizability on a population of similar morphologies. Compared to the state-of-the-art canonical models, our models show 5-fold improved generalizability. This versatile approach can be used to build robust models of any neuronal type.}
+}
+
+@article{wei2023associations,
+  title={Associations between in vitro, in vivo and in silico cell classes in mouse primary visual cortex},
+  author={Wei, Yina and Nandi, Anirban and Jia, Xiaoxuan and Siegle, Joshua H and Denman, Daniel and Lee, Soo Yeun and Buchin, Anatoly and Van Geit, Werner and Mosher, Clayton P and Olsen, Shawn and others},
+  journal={Nature Communications},
+  volume={14},
+  number={1},
+  pages={2344},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
 }
 
 @article{chindemiCalciumbasedPlasticityModel2022b,
@@ -188,6 +200,18 @@ Detailed single-neuron modeling is widely used to study neuronal functions. Whil
   urldate = {2022-06-07},
   abstract = {In realistic neuronal modeling, once the ionic channel complement has been defined, the maximum ionic conductance (Gi-max) values need to be tuned in order to match the firing pattern revealed by electrophysiological recordings. Recently, selection/mutation genetic algorithms have been proposed to efficiently and automatically tune these parameters. Nonetheless, since similar firing patterns can be achieved through different combinations of Gi-max values, it is not clear how well these algorithms approximate the corresponding properties of real cells. Here we have evaluated the issue by exploiting a unique opportunity offered by the cerebellar granule cell (GrC), which is electrotonically compact and has therefore allowed the direct experimental measurement of ionic currents. Previous models were constructed using empirical tuning of Gi-max values to match the original data set. Here, by using repetitive discharge patterns as a template, the optimization procedure yielded models that closely approximated the experimental Gi-max values. These models, in addition to repetitive firing, captured additional features, including inward rectification, near-threshold oscillations, and resonance, which were not used as features. Thus, parameter optimization using genetic algorithms provided an efficient modeling strategy for reconstructing the biophysical properties of neurons and for the subsequent reconstruction of large-scale neuronal network models.},
   langid = {english}
+}
+
+@ARTICLE{bluepyopt,
+AUTHOR={Van Geit, Werner  and  Gevaert, Michael  and  Chindemi, Giuseppe  and  Rössert, Christian  and  Courcol, Jean-Denis  and  Muller, Eilif Benjamin  and  Schürmann, Felix  and  Segev, Idan  and  Markram, Henry},
+TITLE={BluePyOpt: Leveraging open source software and cloud infrastructure to optimise model parameters in neuroscience},
+JOURNAL={Frontiers in Neuroinformatics},
+VOLUME={10},
+YEAR={2016},
+NUMBER={17},
+URL={http://www.frontiersin.org/neuroinformatics/10.3389/fninf.2016.00017/abstract},
+DOI={10.3389/fninf.2016.00017},
+ISSN={1662-5196}
 }
 
 @article{amsalem2016neuron,
