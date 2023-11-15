@@ -155,35 +155,35 @@ MIT Press Cambridge, 2009\.
 
 
 * Werner Van Geit, Michael Gevaert, Tanguy Damart, Christian Rössert, Jean\-Denis Courcol, Guiseppe Chindemi, Aurélien Jaquier, and Eilif Muller\.
-BluePyOpt
+**BluePyOpt**\.
 [doi:10\.5281/zenodo\.8135890](https://doi.org/10.5281/zenodo.8135890)\.  
 
 * Werner Van Geit, Anil Tuncel, Mike Gevaert, Benjamin Torben\-Nielsen, and Eilif Muller\.
-BlueCelluLab
+**BlueCelluLab**\.
 [doi:10\.5281/zenodo\.8113483](https://doi.org/10.5281/zenodo.8113483)\.  
 
 * Rajnish Ranjan, Werner Van Geit, Ruben Moor, Christian Rössert, Juan Luis Riquelme, Tanguy Damart, Aurélien Jaquier, and Anil Tuncel\.
-eFEL
+**eFEL**\.
 [doi:10\.5281/zenodo\.593869](https://doi.org/10.5281/zenodo.593869)\.  
 
 * Roessert Christian, Damart Tanguy, and Van Geit Werner\.
-BluePyEfe
+**BluePyEfe**\.
 [doi:10\.5281/zenodo\.3728191](https://doi.org/10.5281/zenodo.3728191)\.  
 
 * Werner Van Geit, Liesbeth Vanherpe, Christian Rössert, Michael Gevaert, Jean\-Denis Courcol, James Gonzalo King, and Aurélien Jaquier\.
-BluePyMM
+**BluePyMM**\.
 [doi:10\.5281/zenodo\.8146238](https://doi.org/10.5281/zenodo.8146238)\.  
 
 * Tanguy Pierre Louis Damart, Aurélien Jaquier, Alexis Arnaudon, Darshan Mandge, Werner Van Geit, and Ilkan Kilic\.
-BluePyEModel
+**BluePyEModel**\.
 [doi:10\.5281/zenodo\.8283490](https://doi.org/10.5281/zenodo.8283490)\.  
 
 * Aurélien Jaquier, Anil Tuncel, Werner Van Geit, Leandro M Alonso, and Eve Marder\.
-Currentscape
+**Currentscape**\.
 [doi:10\.5281/zenodo\.8046373](https://doi.org/10.5281/zenodo.8046373)\.  
 
 * Werner Van Geit, Pablo Achard, and Erik De Schutter\.
-Neurofitter
+**Neurofitter**\.
 URL: [https://neurofitter\.sourceforge\.net/](https://neurofitter.sourceforge.net/)\.  
 
 

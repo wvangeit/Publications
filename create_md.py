@@ -81,7 +81,7 @@ class NewStyle(Style):
     def format_software(self, e):
         template = toplevel[
             optional[sentence[self.format_names("author")]],
-            optional[field("title")],
+            optional[sentence[tag("b")[field("title")]]],
             sentence(capfirst=False)[optional_field("note")],
             self.format_web_refs(e),
         ]
