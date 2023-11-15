@@ -13,7 +13,8 @@ def main():
     bibtex_folder = working_directory / "bibtex_input"
     md_path = working_directory / "README.md"
 
-    papers_path = bibtex_folder / "papers.bib"  # from zotero
+    papers_path = bibtex_folder / "wvg_papers.bib"  # from zotero
+    preprints_path = bibtex_folder / "wvg_preprints.bib"  # from zotero
 
     new_style = NewStyle
 
@@ -23,12 +24,21 @@ def main():
         [papers_path], style=new_style, output_backend="markdown"
     )
 
+    md_preprints = engine.format_from_files(
+        [preprints_path], style=new_style, output_backend="markdown"
+    )
+
     md_papers = put_bullet_points(md_papers)
+    md_preprints = put_bullet_points(md_preprints)
 
     output = f"""
 # Publications by Werner Van Geit
 
-## Scientific papers
+## Preprints
+
+{md_preprints}
+
+## Papers
 
 {md_papers}
     """
