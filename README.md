@@ -138,13 +138,13 @@ Preprint, Neuroscience, 2022\.
 ## Book chapters
 
 
-* E De Schutter and Werner Van Geit\.
+* Erik De Schutter and Werner Van Geit\.
 **Modeling complex neurons**\.
 In *Computational modeling methods for neuroscientists*, pages 259–84\.
 MIT Press Cambridge, 2009\.
 [doi:10\.7551/mitpress/7543\.003\.0013](https://doi.org/10.7551/mitpress/7543.003.0013)\.  
 
-* Pablo Achard, Werner Van Geit, Gwendal LeMasson, and E De Schutter\.
+* Pablo Achard, Werner Van Geit, Gwendal LeMasson, and Erik De Schutter\.
 **Parameter searching**\.
 In *Computational modeling methods for neuroscientists*, pages 31–60\.
 MIT Press Cambridge, 2009\.
