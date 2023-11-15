@@ -4,8 +4,19 @@ import re
 from pathlib import Path
 
 import pybtex
-import pybtex.style.formatting.unsrt as pybtex_unsrt
-import pybtex.style.template as pybtex_template
+from pybtex.style.formatting.unsrt import Style
+from pybtex.style.formatting import toplevel
+
+from pybtex.style.template import (
+    words,
+    field,
+    optional,
+    sentence,
+    tag,
+    optional_field,
+)
+
+date = words[optional_field("month"), field("year")]
 
 
 def main():
@@ -18,7 +29,7 @@ def main():
     engine = pybtex.PybtexEngine()
 
     md = {}
-    pub_types = ["papers", "preprints", "chapters"]
+    pub_types = ["papers", "preprints", "chapters", "software"]
     for pub_type in pub_types:
         bibtex_path = bibtex_folder / f"wvg_{pub_type}.bib"
         md[pub_type] = engine.format_from_files(
@@ -43,6 +54,10 @@ def main():
 
 {md['chapters']}
 
+## Software
+
+{md['software']}
+
     """
 
     # -- write down markdown wiki -- #
@@ -50,18 +65,31 @@ def main():
     md_path.write_text(output)
 
 
-class NewStyle(pybtex_unsrt.Style):
+class NewStyle(Style):
     """Style similar to unsrt, but with bold titles and sorting by date."""
 
     def format_title(self, e, which_field, as_sentence=True):
-        formatted_title = pybtex_template.field(
+        formatted_title = field(
             which_field, apply_func=lambda text: text.capitalize()
         )
-        formatted_title = pybtex_template.tag("b")[formatted_title]
+        formatted_title = tag("b")[formatted_title]
         if as_sentence:
-            return pybtex_template.sentence[formatted_title]
+            return sentence[formatted_title]
         else:
             return formatted_title
+
+    def format_software(self, e):
+        template = toplevel[
+            optional[sentence[self.format_names("author")]],
+            optional[self.format_title(e, "title")],
+            sentence[
+                optional[field("howpublished")],
+                optional[date],
+            ],
+            sentence(capfirst=False)[optional_field("note")],
+            self.format_web_refs(e),
+        ]
+        return template.format_data(e)
 
 
 def put_bullet_points(input):

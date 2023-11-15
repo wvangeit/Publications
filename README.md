@@ -151,4 +151,43 @@ MIT Press Cambridge, 2009\.
 [doi:https://doi\.org/10\.7551/mitpress/7543\.003\.0004](https://doi.org/https://doi.org/10.7551/mitpress/7543.003.0004)\.  
 
 
+## Software
+
+
+* Werner Van Geit, Michael Gevaert, Tanguy Damart, Christian Rössert, Jean\-Denis Courcol, Guiseppe Chindemi, Aurélien Jaquier, and Eilif Muller\.
+**Bluepyopt**\.
+October 2023\.
+[doi:10\.5281/zenodo\.8135890](https://doi.org/10.5281/zenodo.8135890)\.  
+
+* Werner Van Geit, Anil Tuncel, Mike Gevaert, Benjamin Torben\-Nielsen, and Eilif Muller\.
+**Bluecellulab**\.
+November 2023\.
+[doi:10\.5281/zenodo\.8113483](https://doi.org/10.5281/zenodo.8113483)\.  
+
+* Rajnish Ranjan, Werner Van Geit, Ruben Moor, Christian Rössert, Juan Luis Riquelme, Tanguy Damart, Aurélien Jaquier, and Anil Tuncel\.
+**Efel**\.
+October 2023\.
+[doi:10\.5281/zenodo\.593869](https://doi.org/10.5281/zenodo.593869)\.  
+
+* Roessert Christian, Damart Tanguy, and Van Geit Werner\.
+**Bluepyefe**\.
+February 2022\.
+[doi:10\.5281/zenodo\.3728191](https://doi.org/10.5281/zenodo.3728191)\.  
+
+* Werner Van Geit, Liesbeth Vanherpe, Christian Rössert, Michael Gevaert, Jean\-Denis Courcol, James Gonzalo King, and Aurélien Jaquier\.
+**Bluepymm**\.
+October 2023\.
+[doi:10\.5281/zenodo\.8146238](https://doi.org/10.5281/zenodo.8146238)\.  
+
+* Tanguy Pierre Louis Damart, Aurélien Jaquier, Alexis Arnaudon, Darshan Mandge, Werner Van Geit, and Ilkan Kilic\.
+**Bluepyemodel**\.
+November 2023\.
+[doi:10\.5281/zenodo\.8283490](https://doi.org/10.5281/zenodo.8283490)\.  
+
+* Aurélien Jaquier, Anil Tuncel, Werner Van Geit, Leandro M Alonso, and Eve Marder\.
+**Currentscape**\.
+July 2023\.
+[doi:10\.5281/zenodo\.8046373](https://doi.org/10.5281/zenodo.8046373)\.  
+
+
     
