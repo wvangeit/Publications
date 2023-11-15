@@ -177,6 +177,10 @@ MIT Press Cambridge, 2009\.
 **BluePyEModel**\.
 [doi:10\.5281/zenodo\.8283490](https://doi.org/10.5281/zenodo.8283490)\.  
 
+* Aurélien Jaquier, Anil Tuncel, and Werner Van Geit\.
+**EModelRunner**\.
+[doi:10\.5281/zenodo\.8116075](https://doi.org/10.5281/zenodo.8116075)\.  
+
 * Aurélien Jaquier, Anil Tuncel, Werner Van Geit, Leandro M Alonso, and Eve Marder\.
 **Currentscape**\.
 [doi:10\.5281/zenodo\.8046373](https://doi.org/10.5281/zenodo.8046373)\.  
