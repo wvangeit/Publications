@@ -38,21 +38,53 @@ URL: [https://www\.sciencedirect\.com/science/article/pii/S2666389923002398](htt
 **A calcium\-based plasticity model for predicting long\-term potentiation and depression in the neocortex**\.
 *Nature Communications*, 13\(1\):3038, June 2022\.
 [doi:10\.1038/s41467\-022\-30214\-w](https://doi.org/10.1038/s41467-022-30214-w)\.  
-* Elisabetta Iavarone, Jane Yi, Ying Shi, Bas\-Jan Zandt, Christian O'Reilly, Werner Van Geit, Christian Rössert, Henry Markram, and Sean L\. Hill\.
-**Experimentally\-constrained biophysical models of tonic and burst firing modes in thalamocortical neurons**\.
-*PLOS Computational Biology*, 15\(5\):e1006753, May 2019\.
-[doi:10\.1371/journal\.pcbi\.1006753](https://doi.org/10.1371/journal.pcbi.1006753)\.  
-* Stefano Masoli, Martina F\. Rizza, Martina Sgritta, Werner Van Geit, Felix Schürmann, and Egidio D'Angelo\.
-**Single Neuron Optimization as a Basis for Accurate Biophysical Modeling: The Case of Cerebellar Granule Cells**\.
-*Frontiers in Cellular Neuroscience*, March 2017\.
-[doi:10\.3389/fncel\.2017\.00071](https://doi.org/10.3389/fncel.2017.00071)\.  
-* Sára Sáray, Christian A\. Rössert, Shailesh Appukuttan, Rosanna Migliore, Paola Vitale, Carmen A\. Lupascu, Luca L\. Bologna, Werner Van Geit, Armando Romani, Andrew P\. Davison, Eilif Muller, Tamás F\. Freund, and Szabolcs Káli\.
-**HippoUnit: A software tool for the automated testing and systematic comparison of detailed models of hippocampal neurons based on electrophysiological data**\.
-*PLOS Computational Biology*, 17\(1\):e1008114, January 2021\.
-[doi:10\.1371/journal\.pcbi\.1008114](https://doi.org/10.1371/journal.pcbi.1008114)\.  
+* Anirban Nandi, Tom Chartrand, Werner Van Geit, Anatoly Buchin, Zizhen Yao, Soo Yeun Lee, Yina Wei, Brian Kalmbach, Brian Lee, Ed Lein, Jim Berg, Uygar Sümbül, Christof Koch, and Costas A Anastassiou\.
+**Single\-neuron models linking electrophysiology, morphology and transcriptomics across cortical cell types**\.
+*Cell Reports*, 2022\.
+[doi:10\.1016/j\.celrep\.2022\.111176](https://doi.org/10.1016/j.celrep.2022.111176)\.  
+* Lida Kanari, Hugo Dictus, Athanassia Chalimourda, Alexis Arnaudon, Werner Van Geit, Benoit Coste, Julian Shillcock, Kathryn Hess, and Henry Markram\.
+**Computational synthesis of cortical dendritic morphologies**\.
+*Cell Reports*, 39\(1\):110586, April 2022\.
+[doi:10\.1016/j\.celrep\.2022\.110586](https://doi.org/10.1016/j.celrep.2022.110586)\.  
 * Gilad Shapira, Mira Marcus\-Kalish, Oren Amsalem, Werner Van Geit, Idan Segev, and David M\. Steinberg\.
 **Statistical Emulation of Neural Simulators: Application to Neocortical L2/3 Large Basket Cells**\.
 *Frontiers in Big Data*, 5:789962, March 2022\.
 [doi:10\.3389/fdata\.2022\.789962](https://doi.org/10.3389/fdata.2022.789962)\.  
+* Elisabetta Iavarone, Jane Yi, Ying Shi, Bas\-Jan Zandt, Christian O'Reilly, Werner Van Geit, Christian Rössert, Henry Markram, and Sean L\. Hill\.
+**Experimentally\-constrained biophysical models of tonic and burst firing modes in thalamocortical neurons**\.
+*PLOS Computational Biology*, 15\(5\):e1006753, May 2019\.
+[doi:10\.1371/journal\.pcbi\.1006753](https://doi.org/10.1371/journal.pcbi.1006753)\.  
+* Sára Sáray, Christian A\. Rössert, Shailesh Appukuttan, Rosanna Migliore, Paola Vitale, Carmen A\. Lupascu, Luca L\. Bologna, Werner Van Geit, Armando Romani, Andrew P\. Davison, Eilif Muller, Tamás F\. Freund, and Szabolcs Káli\.
+**HippoUnit: A software tool for the automated testing and systematic comparison of detailed models of hippocampal neurons based on electrophysiological data**\.
+*PLOS Computational Biology*, 17\(1\):e1008114, January 2021\.
+[doi:10\.1371/journal\.pcbi\.1008114](https://doi.org/10.1371/journal.pcbi.1008114)\.  
+* Kael Dai, Juan Hernando, Yazan N Billeh, Sergey L Gratiy, Judit Planas, Andrew P Davison, Salvador Dura\-Bernal, Padraig Gleeson, Adrien Devresse, Benjamin K Dichter, and others\.
+**The sonata data format for efficient description of large\-scale network models**\.
+*PLoS computational biology*, 16\(2\):e1007696, 2020\.  
+* Elisabetta Iavarone, Jane Yi, Ying Shi, Bas\-Jan Zandt, Christian O’reilly, Werner Van Geit, Christian Rössert, Henry Markram, and Sean L Hill\.
+**Experimentally\-constrained biophysical models of tonic and burst firing modes in thalamocortical neurons**\.
+*PLoS computational biology*, 15\(5\):e1006753, 2019\.  
+* Padraig Gleeson, Matteo Cantarelli, Boris Marin, Adrian Quintana, Matt Earnshaw, Sadra Sadeh, Eugenio Piasini, Justas Birgiolas, Robert C Cannon, N Alex Cayco\-Gajic, and others\.
+**Open source brain: a collaborative resource for visualizing, analyzing, simulating, and developing standardized models of neurons and circuits**\.
+*Neuron*, 103\(3\):395–411, 2019\.  
+* Rosanna Migliore, Carmen A Lupascu, Luca L Bologna, Armando Romani, Jean\-Denis Courcol, Stefano Antonel, Werner AH Van Geit, Alex M Thomson, Audrey Mercer, Sigrun Lange, and others\.
+**The physiological variability of channel density in hippocampal ca1 pyramidal cells and interneurons explored using a unified data\-driven modeling workflow**\.
+*PLoS computational biology*, 14\(9\):e1006423, 2018\.  
+* Stefano Masoli, Martina F\. Rizza, Martina Sgritta, Werner Van Geit, Felix Schürmann, and Egidio D'Angelo\.
+**Single Neuron Optimization as a Basis for Accurate Biophysical Modeling: The Case of Cerebellar Granule Cells**\.
+*Frontiers in Cellular Neuroscience*, March 2017\.
+[doi:10\.3389/fncel\.2017\.00071](https://doi.org/10.3389/fncel.2017.00071)\.  
+* Oren Amsalem, Werner Van Geit, Eilif Muller, Henry Markram, and Idan Segev\.
+**From neuron biophysics to orientation selectivity in electrically coupled networks of neocortical l2/3 large basket cells**\.
+*Cerebral Cortex*, 26\(8\):3655–3668, 2016\.  
+* Henry Markram, Eilif Muller, Srikanth Ramaswamy, Michael W Reimann, Marwan Abdellah, Carlos Aguado Sanchez, Anastasia Ailamaki, Lidia Alonso\-Nanclares, Nicolas Antille, Selim Arsever, and others\.
+**Reconstruction and simulation of neocortical microcircuitry**\.
+*Cell*, 163\(2\):456–492, 2015\.  
+* W Van Geit, E De Schutter, and P Achard\.
+**Automated neuron model optimization techniques: a review**\.
+*Biological cybernetics*, 99\(4\-5\):241–251, 2008\.  
+* Werner Van Geit, Pablo Achard, and Erik De Schutter\.
+**Neurofitter: a parameter tuning package for a wide range of electrophysiological neuron models**\.
+*Frontiers in neuroinformatics*, 1:89, 2007\.  
 
     
