@@ -25,9 +25,12 @@ def main():
 
     md_papers = put_bullet_points(md_papers)
 
-    output = f"""# Publications by Werner Van Geit
-    ## Scientific papers
-    {md_papers}
+    output = f"""
+# Publications by Werner Van Geit
+
+## Scientific papers
+
+{md_papers}
     """
 
     # -- write down markdown wiki -- #
