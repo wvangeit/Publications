@@ -13,22 +13,22 @@
 * Alexis Arnaudon, Maria Reva, Mickael Zbili, Henry Markram, Werner Van Geit, and Lida Kanari\.
 **Controlling morpho\-electrophysiological variability of neurons with detailed biophysical models**\.
 *iScience*, 2023\.
-[doi:https://doi\.org/10\.1016/j\.isci\.2023\.108222](https://doi.org/https://doi.org/10.1016/j.isci.2023.108222)\.  
+[doi:10\.1016/j\.isci\.2023\.108222](https://doi.org/10.1016/j.isci.2023.108222)\.  
 
 * Maria Reva, Christian Rössert, Alexis Arnaudon, Tanguy Damart, Darshan Mandge, Anıl Tuncel, Srikanth Ramaswamy, Henry Markram, and Werner Van Geit\.
 **A universal workflow for creation, validation, and generalization of detailed neuronal models**\.
 *Patterns*, 4\(11\):100855, 2023\.
-[doi:https://doi\.org/10\.1016/j\.patter\.2023\.100855](https://doi.org/https://doi.org/10.1016/j.patter.2023.100855)\.  
+[doi:10\.1016/j\.patter\.2023\.100855](https://doi.org/10.1016/j.patter.2023.100855)\.  
 
 * Yina Wei, Anirban Nandi, Xiaoxuan Jia, Joshua H\. Siegle, Daniel Denman, Soo Yeun Lee, Anatoly Buchin, Werner Van Geit, Clayton P\. Mosher, Shawn Olsen, and Costas A\. Anastassiou\.
 **Associations between in vitro, in vivo and in silico cell classes in mouse primary visual cortex**\.
 *Nature Communications*, 14\(1\):2344, Apr 2023\.
-URL: [https://doi\.org/10\.1038/s41467\-023\-37844\-8](https://doi.org/10.1038/s41467-023-37844-8), [doi:10\.1038/s41467\-023\-37844\-8](https://doi.org/10.1038/s41467-023-37844-8)\.  
+[doi:10\.1038/s41467\-023\-37844\-8](https://doi.org/10.1038/s41467-023-37844-8)\.  
 
 * Elisabetta Iavarone, Jane Simko, Ying Shi, Marine Bertschy, María García\-Amado, Polina Litvak, Anna\-Kristin Kaufmann, Christian O’Reilly, Oren Amsalem, Marwan Abdellah, Grigori Chevtchenko, Benoît Coste, Jean\-Denis Courcol, András Ecker, Cyrille Favreau, Adrien Christian Fleury, Werner Van Geit, Michael Gevaert, Nadir Román Guerrero, Joni Herttuainen, Genrich Ivaska, Samuel Kerrien, James G\. King, Pramod Kumbhar, Patrycja Lurie, Ioannis Magkanaris, Vignayanandam Ravindernath Muddapu, Jayakrishnan Nair, Fernando L\. Pereira, Rodrigo Perin, Fabien Petitjean, Rajnish Ranjan, Michael Reimann, Liviu Soltuzu, Mohameth François Sy, M\. Anıl Tuncel, Alexander Ulbrich, Matthias Wolf, Francisco Clascá, Henry Markram, and Sean L\. Hill\.
 **Thalamic control of sensory processing and spindles in a biophysical somatosensory thalamoreticular circuit model of wakefulness and sleep**\.
 *Cell Reports*, 42\(3\):112200, 2023\.
-URL: [https://www\.sciencedirect\.com/science/article/pii/S2211124723002115](https://www.sciencedirect.com/science/article/pii/S2211124723002115), [doi:https://doi\.org/10\.1016/j\.celrep\.2023\.112200](https://doi.org/https://doi.org/10.1016/j.celrep.2023.112200)\.  
+[doi:10\.1016/j\.celrep\.2023\.112200](https://doi.org/10.1016/j.celrep.2023.112200)\.  
 
 * Giuseppe Chindemi, Marwan Abdellah, Oren Amsalem, Ruth Benavides\-Piccione, Vincent Delattre, Michael Doron, András Ecker, Aurélien T\. Jaquier, James King, Pramod Kumbhar, Caitlin Monney, Rodrigo Perin, Christian Rössert, Anil M\. Tuncel, Werner Van Geit, Javier DeFelipe, Michael Graupner, Idan Segev, Henry Markram, and Eilif B\. Muller\.
 **A calcium\-based plasticity model for predicting long\-term potentiation and depression in the neocortex**\.
@@ -38,7 +38,7 @@ URL: [https://www\.sciencedirect\.com/science/article/pii/S2211124723002115](htt
 * Anirban Nandi, Thomas Chartrand, Werner Van Geit, Anatoly Buchin, Zizhen Yao, Soo Yeun Lee, Yina Wei, Brian Kalmbach, Brian Lee, Ed Lein, Jim Berg, Uygar Sümbül, Christof Koch, Bosiljka Tasic, and Costas A\. Anastassiou\.
 **Single\-neuron models linking electrophysiology, morphology, and transcriptomics across cortical cell types**\.
 *Cell Reports*, 40\(6\):111176, 2022\.
-URL: [https://www\.sciencedirect\.com/science/article/pii/S2211124722009895](https://www.sciencedirect.com/science/article/pii/S2211124722009895), [doi:https://doi\.org/10\.1016/j\.celrep\.2022\.111176](https://doi.org/https://doi.org/10.1016/j.celrep.2022.111176)\.  
+[doi:10\.1016/j\.celrep\.2022\.111176](https://doi.org/10.1016/j.celrep.2022.111176)\.  
 
 * Lida Kanari, Hugo Dictus, Athanassia Chalimourda, Alexis Arnaudon, Werner Van Geit, Benoit Coste, Julian Shillcock, Kathryn Hess, and Henry Markram\.
 **Computational synthesis of cortical dendritic morphologies**\.
@@ -62,19 +62,23 @@ URL: [https://www\.sciencedirect\.com/science/article/pii/S2211124722009895](htt
 
 * Kael Dai, Juan Hernando, Yazan N Billeh, Sergey L Gratiy, Judit Planas, Andrew P Davison, Salvador Dura\-Bernal, Padraig Gleeson, Adrien Devresse, Benjamin K Dichter, and others\.
 **The sonata data format for efficient description of large\-scale network models**\.
-*PLoS computational biology*, 16\(2\):e1007696, 2020\.  
+*PLoS computational biology*, 16\(2\):e1007696, 2020\.
+[doi:10\.1371/journal\.pcbi\.1007696](https://doi.org/10.1371/journal.pcbi.1007696)\.  
 
 * Elisabetta Iavarone, Jane Yi, Ying Shi, Bas\-Jan Zandt, Christian O’reilly, Werner Van Geit, Christian Rössert, Henry Markram, and Sean L Hill\.
 **Experimentally\-constrained biophysical models of tonic and burst firing modes in thalamocortical neurons**\.
-*PLoS computational biology*, 15\(5\):e1006753, 2019\.  
+*PLoS computational biology*, 15\(5\):e1006753, 2019\.
+[doi:10\.1371/journal\.pcbi\.1006753](https://doi.org/10.1371/journal.pcbi.1006753)\.  
 
 * Padraig Gleeson, Matteo Cantarelli, Boris Marin, Adrian Quintana, Matt Earnshaw, Sadra Sadeh, Eugenio Piasini, Justas Birgiolas, Robert C Cannon, N Alex Cayco\-Gajic, and others\.
 **Open source brain: a collaborative resource for visualizing, analyzing, simulating, and developing standardized models of neurons and circuits**\.
-*Neuron*, 103\(3\):395–411, 2019\.  
+*Neuron*, 103\(3\):395–411, 2019\.
+[doi:10\.1016/j\.neuron\.2019\.05\.019](https://doi.org/10.1016/j.neuron.2019.05.019)\.  
 
 * Rosanna Migliore, Carmen A Lupascu, Luca L Bologna, Armando Romani, Jean\-Denis Courcol, Stefano Antonel, Werner AH Van Geit, Alex M Thomson, Audrey Mercer, Sigrun Lange, and others\.
 **The physiological variability of channel density in hippocampal ca1 pyramidal cells and interneurons explored using a unified data\-driven modeling workflow**\.
-*PLoS computational biology*, 14\(9\):e1006423, 2018\.  
+*PLoS computational biology*, 14\(9\):e1006423, 2018\.
+[doi:10\.1371/journal\.pcbi\.1006423](https://doi.org/10.1371/journal.pcbi.1006423)\.  
 
 * Stefano Masoli, Martina F\. Rizza, Martina Sgritta, Werner Van Geit, Felix Schürmann, and Egidio D'Angelo\.
 **Single Neuron Optimization as a Basis for Accurate Biophysical Modeling: The Case of Cerebellar Granule Cells**\.
@@ -88,19 +92,23 @@ URL: [http://www\.frontiersin\.org/neuroinformatics/10\.3389/fninf\.2016\.00017/
 
 * Oren Amsalem, Werner Van Geit, Eilif Muller, Henry Markram, and Idan Segev\.
 **From neuron biophysics to orientation selectivity in electrically coupled networks of neocortical l2/3 large basket cells**\.
-*Cerebral Cortex*, 26\(8\):3655–3668, 2016\.  
+*Cerebral Cortex*, 26\(8\):3655–3668, 2016\.
+[doi:10\.1093/cercor/bhw166](https://doi.org/10.1093/cercor/bhw166)\.  
 
-* Henry Markram, Eilif Muller, Srikanth Ramaswamy, Michael W Reimann, Marwan Abdellah, Carlos Aguado Sanchez, Anastasia Ailamaki, Lidia Alonso\-Nanclares, Nicolas Antille, Selim Arsever, and others\.
+* Henry Markram, Eilif Muller, Srikanth Ramaswamy, Michael W Reimann, Marwan Abdellah, Carlos Aguado Sanchez, Anastasia Ailamaki, Lidia Alonso\-Nanclares, Nicolas Antille, Selim Arsever, Guy Antoine Atenekeng Kahou, Thomas K Berger, Ahmet Bilgili, Nenad Buncic, Athanassia Chalimourda, Giuseppe Chindemi, Jean\-Denis Courcol, Fabien Delalondre, Vincent Delattre, Shaul Druckmann, Raphael Dumusc, James Dynes, Stefan Eilemann, Eyal Gal, Michael Emiel Gevaert, Jean\-Pierre Ghobril, Albert Gidon, Joe W Graham, Anirudh Gupta, Valentin Haenel, Etay Hay, Thomas Heinis, Juan B Hernando, Michael Hines, Lida Kanari, Daniel Keller, John Kenyon, Georges Khazen, Yihwa Kim, James G King, Zoltan Kisvarday, Pramod Kumbhar, Sébastien Lasserre, Jean\-Vincent Le Bé, Bruno R C Magalhães, Angel Merchán\-Pérez, Julie Meystre, Benjamin Roy Morrice, Jeffrey Muller, Alberto Muñoz\-Céspedes, Shruti Muralidhar, Keerthan Muthurasa, Daniel Nachbaur, Taylor H Newton, Max Nolte, Aleksandr Ovcharenko, Juan Palacios, Luis Pastor, Rodrigo Perin, Rajnish Ranjan, Imad Riachi, José\-Rodrigo Rodríguez, Juan Luis Riquelme, Christian Rössert, Konstantinos Sfyrakis, Ying Shi, Julian C Shillcock, Gilad Silberberg, Ricardo Silva, Farhan Tauheed, Martin Telefont, Maria Toledo\-Rodriguez, Thomas Tränkler, Werner Van Geit, Jafet Villafranca Díaz, Richard Walker, Yun Wang, Stefano M Zaninetta, Javier DeFelipe, Sean L Hill, Idan Segev, and Felix Schürmann\.
 **Reconstruction and simulation of neocortical microcircuitry**\.
-*Cell*, 163\(2\):456–492, 2015\.  
+*Cell*, 163\(2\):456–492, October 2015\.
+[doi:10\.1016/j\.cell\.2015\.09\.029](https://doi.org/10.1016/j.cell.2015.09.029)\.  
 
 * Werner Van Geit, Erik De Schutter, and Pablo Achard\.
 **Automated neuron model optimization techniques: a review**\.
-*Biological cybernetics*, 99\(4\-5\):241–251, 2008\.  
+*Biological cybernetics*, 99\(4\-5\):241–251, 2008\.
+[doi:10\.1007/s00422\-008\-0257\-6](https://doi.org/10.1007/s00422-008-0257-6)\.  
 
 * Werner Van Geit, Pablo Achard, and Erik De Schutter\.
 **Neurofitter: a parameter tuning package for a wide range of electrophysiological neuron models**\.
-*Frontiers in neuroinformatics*, 1:89, 2007\.  
+*Frontiers in neuroinformatics*, 1:89, 2007\.
+[doi:10\.3389/neuro\.11\.001\.2007](https://doi.org/10.3389/neuro.11.001.2007)\.  
 
 
 ## Preprints
