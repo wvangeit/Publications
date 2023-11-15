@@ -189,5 +189,10 @@ November 2023\.
 July 2023\.
 [doi:10\.5281/zenodo\.8046373](https://doi.org/10.5281/zenodo.8046373)\.  
 
+* Werner Van Geit, Pablo Achard, and others\.
+**Neurofitter**\.
+2007\.
+URL: [https://neurofitter\.sourceforge\.net/](https://neurofitter.sourceforge.net/)\.  
+
 
     
