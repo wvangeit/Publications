@@ -18,25 +18,27 @@
 * Maria Reva, Christian Rössert, Alexis Arnaudon, Tanguy Damart, Darshan Mandge, Anıl Tuncel, Srikanth Ramaswamy, Henry Markram, and Werner Van Geit\.
 **A universal workflow for creation, validation, and generalization of detailed neuronal models**\.
 *Patterns*, 4\(11\):100855, 2023\.
-URL: [https://www\.sciencedirect\.com/science/article/pii/S2666389923002398](https://www.sciencedirect.com/science/article/pii/S2666389923002398), [doi:https://doi\.org/10\.1016/j\.patter\.2023\.100855](https://doi.org/https://doi.org/10.1016/j.patter.2023.100855)\.  
+[doi:https://doi\.org/10\.1016/j\.patter\.2023\.100855](https://doi.org/https://doi.org/10.1016/j.patter.2023.100855)\.  
 
-* Yina Wei, Anirban Nandi, Xiaoxuan Jia, Joshua H Siegle, Daniel Denman, Soo Yeun Lee, Anatoly Buchin, Werner Van Geit, Clayton P Mosher, Shawn Olsen, and others\.
+* Yina Wei, Anirban Nandi, Xiaoxuan Jia, Joshua H\. Siegle, Daniel Denman, Soo Yeun Lee, Anatoly Buchin, Werner Van Geit, Clayton P\. Mosher, Shawn Olsen, and Costas A\. Anastassiou\.
 **Associations between in vitro, in vivo and in silico cell classes in mouse primary visual cortex**\.
-*Nature Communications*, 14\(1\):2344, 2023\.  
+*Nature Communications*, 14\(1\):2344, Apr 2023\.
+URL: [https://doi\.org/10\.1038/s41467\-023\-37844\-8](https://doi.org/10.1038/s41467-023-37844-8), [doi:10\.1038/s41467\-023\-37844\-8](https://doi.org/10.1038/s41467-023-37844-8)\.  
 
-* Elisabetta Iavarone, Jane Simko, Ying Shi, Marine Bertschy, María García\-Amado, Polina Litvak, Anna\-Kristin Kaufmann, Christian O’Reilly, Oren Amsalem, Marwan Abdellah, and others\.
+* Elisabetta Iavarone, Jane Simko, Ying Shi, Marine Bertschy, María García\-Amado, Polina Litvak, Anna\-Kristin Kaufmann, Christian O’Reilly, Oren Amsalem, Marwan Abdellah, Grigori Chevtchenko, Benoît Coste, Jean\-Denis Courcol, András Ecker, Cyrille Favreau, Adrien Christian Fleury, Werner Van Geit, Michael Gevaert, Nadir Román Guerrero, Joni Herttuainen, Genrich Ivaska, Samuel Kerrien, James G\. King, Pramod Kumbhar, Patrycja Lurie, Ioannis Magkanaris, Vignayanandam Ravindernath Muddapu, Jayakrishnan Nair, Fernando L\. Pereira, Rodrigo Perin, Fabien Petitjean, Rajnish Ranjan, Michael Reimann, Liviu Soltuzu, Mohameth François Sy, M\. Anıl Tuncel, Alexander Ulbrich, Matthias Wolf, Francisco Clascá, Henry Markram, and Sean L\. Hill\.
 **Thalamic control of sensory processing and spindles in a biophysical somatosensory thalamoreticular circuit model of wakefulness and sleep**\.
-*Cell Reports*, 2023\.  
+*Cell Reports*, 42\(3\):112200, 2023\.
+URL: [https://www\.sciencedirect\.com/science/article/pii/S2211124723002115](https://www.sciencedirect.com/science/article/pii/S2211124723002115), [doi:https://doi\.org/10\.1016/j\.celrep\.2023\.112200](https://doi.org/https://doi.org/10.1016/j.celrep.2023.112200)\.  
 
 * Giuseppe Chindemi, Marwan Abdellah, Oren Amsalem, Ruth Benavides\-Piccione, Vincent Delattre, Michael Doron, András Ecker, Aurélien T\. Jaquier, James King, Pramod Kumbhar, Caitlin Monney, Rodrigo Perin, Christian Rössert, Anil M\. Tuncel, Werner Van Geit, Javier DeFelipe, Michael Graupner, Idan Segev, Henry Markram, and Eilif B\. Muller\.
 **A calcium\-based plasticity model for predicting long\-term potentiation and depression in the neocortex**\.
 *Nature Communications*, 13\(1\):3038, June 2022\.
 [doi:10\.1038/s41467\-022\-30214\-w](https://doi.org/10.1038/s41467-022-30214-w)\.  
 
-* Anirban Nandi, Tom Chartrand, Werner Van Geit, Anatoly Buchin, Zizhen Yao, Soo Yeun Lee, Yina Wei, Brian Kalmbach, Brian Lee, Ed Lein, Jim Berg, Uygar Sümbül, Christof Koch, and Costas A Anastassiou\.
-**Single\-neuron models linking electrophysiology, morphology and transcriptomics across cortical cell types**\.
-*Cell Reports*, 2022\.
-[doi:10\.1016/j\.celrep\.2022\.111176](https://doi.org/10.1016/j.celrep.2022.111176)\.  
+* Anirban Nandi, Thomas Chartrand, Werner Van Geit, Anatoly Buchin, Zizhen Yao, Soo Yeun Lee, Yina Wei, Brian Kalmbach, Brian Lee, Ed Lein, Jim Berg, Uygar Sümbül, Christof Koch, Bosiljka Tasic, and Costas A\. Anastassiou\.
+**Single\-neuron models linking electrophysiology, morphology, and transcriptomics across cortical cell types**\.
+*Cell Reports*, 40\(6\):111176, 2022\.
+URL: [https://www\.sciencedirect\.com/science/article/pii/S2211124722009895](https://www.sciencedirect.com/science/article/pii/S2211124722009895), [doi:https://doi\.org/10\.1016/j\.celrep\.2022\.111176](https://doi.org/https://doi.org/10.1016/j.celrep.2022.111176)\.  
 
 * Lida Kanari, Hugo Dictus, Athanassia Chalimourda, Alexis Arnaudon, Werner Van Geit, Benoit Coste, Julian Shillcock, Kathryn Hess, and Henry Markram\.
 **Computational synthesis of cortical dendritic morphologies**\.
