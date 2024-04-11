@@ -4,6 +4,11 @@
 ## Papers
 
 
+* Alessio Paolo Buccino, Tanguy Damart, Julian Bartram, Darshan Mandge, Xiaohan Xue, Mickael Zbili, Tobias Gänswein, Aurélien Jaquier, Vishalini Emmenegger, Henry Markram, Andreas Hierlemann, and Werner Van Geit\.
+**A multi\-modal fitting approach to construct single\-neuron models with patch clamp and high\-density microelectrode arrays**\.
+*Neural Computation*, 2024\.
+forthcoming\.  
+
 * Konstantin Weise, Torge Worbs, Benjamin Kalloch, Victor H\. Souza, Aurélien Tristan Jaquier, Werner Van Geit, Axel Thielscher, and Thomas R\. Knösche\.
 **Directional Sensitivity of Cortical Neurons Towards TMS Induced Electric Fields**\.
 *Imaging Neuroscience*, 11 2023\.
