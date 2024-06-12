@@ -7,7 +7,7 @@
 * Alessio Paolo Buccino, Tanguy Damart, Julian Bartram, Darshan Mandge, Xiaohan Xue, Mickael Zbili, Tobias Gänswein, Aurélien Jaquier, Vishalini Emmenegger, Henry Markram, Andreas Hierlemann, and Werner Van Geit\.
 **A Multimodal Fitting Approach to Construct Single\-Neuron Models With Patch Clamp and High\-Density Microelectrode Arrays**\.
 *Neural Computation*, 36\(7\):1286&ndash;1331, 06 2024\.
-URL: [https://doi\.org/10\.1162/neco\\\_a\\\_01672](https://doi.org/10.1162/neco\_a\_01672), [arXiv:https://direct\.mit\.edu/neco/article\-pdf/36/7/1286/2378076/neco\\\_a\\\_01672\.pdf](https://arxiv.org/abs/https://direct.mit.edu/neco/article-pdf/36/7/1286/2378076/neco\_a\_01672.pdf), [doi:10\.1162/neco\_a\_01672](https://doi.org/10.1162/neco_a_01672)\.  
+URL: [https://doi\.org/10\.1162/neco\\\_a\\\_01672](https://doi.org/10.1162/neco\_a\_01672), [doi:10\.1162/neco\_a\_01672](https://doi.org/10.1162/neco_a_01672)\.  
 
 * Konstantin Weise, Torge Worbs, Benjamin Kalloch, Victor H\. Souza, Aurélien Tristan Jaquier, Werner Van Geit, Axel Thielscher, and Thomas R\. Knösche\.
 **Directional Sensitivity of Cortical Neurons Towards TMS Induced Electric Fields**\.
