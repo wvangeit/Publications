@@ -5,9 +5,9 @@
 
 
 * Alessio Paolo Buccino, Tanguy Damart, Julian Bartram, Darshan Mandge, Xiaohan Xue, Mickael Zbili, Tobias Gänswein, Aurélien Jaquier, Vishalini Emmenegger, Henry Markram, Andreas Hierlemann, and Werner Van Geit\.
-**A multi\-modal fitting approach to construct single\-neuron models with patch clamp and high\-density microelectrode arrays**\.
-*Neural Computation*, 2024\.
-forthcoming\.  
+**A Multimodal Fitting Approach to Construct Single\-Neuron Models With Patch Clamp and High\-Density Microelectrode Arrays**\.
+*Neural Computation*, 36\(7\):1286&ndash;1331, 06 2024\.
+URL: [https://doi\.org/10\.1162/neco\\\_a\\\_01672](https://doi.org/10.1162/neco\_a\_01672), [arXiv:https://direct\.mit\.edu/neco/article\-pdf/36/7/1286/2378076/neco\\\_a\\\_01672\.pdf](https://arxiv.org/abs/https://direct.mit.edu/neco/article-pdf/36/7/1286/2378076/neco\_a\_01672.pdf), [doi:10\.1162/neco\_a\_01672](https://doi.org/10.1162/neco_a_01672)\.  
 
 * Konstantin Weise, Torge Worbs, Benjamin Kalloch, Victor H\. Souza, Aurélien Tristan Jaquier, Werner Van Geit, Axel Thielscher, and Thomas R\. Knösche\.
 **Directional Sensitivity of Cortical Neurons Towards TMS Induced Electric Fields**\.
@@ -127,11 +127,6 @@ Preprint, Neuroscience, May 2023\.
 **Community\-based Reconstruction and Simulation of a Full\-scale Model of Region CA1 of Rat Hippocampus**\.
 Preprint, Neuroscience, May 2023\.
 [doi:10\.1101/2023\.05\.17\.541167](https://doi.org/10.1101/2023.05.17.541167)\.  
-
-* Alessio Paolo Buccino, Tanguy Damart, Julian Bartram, Darshan Mandge, Xiaohan Xue, Mickael Zbili, Tobias Gänswein, Aurélien Jaquier, Vishalini Emmenegger, Henry Markram, Andreas Hierlemann, and Werner Van Geit\.
-**A multi\-modal fitting approach to construct single\-neuron models with patch clamp and high\-density microelectrode arrays**\.
-Preprint, Neuroscience, August 2022\.
-[doi:10\.1101/2022\.08\.03\.502468](https://doi.org/10.1101/2022.08.03.502468)\.  
 
 * Michael W Reimann, Sirio Bolaños\-Puchet, Jean\-Denis Courcol, Daniela Egas Santander, Alexis Arnaudon, Benoît Coste, Thomas Delemontex, Adrien Devresse, Hugo Dictus, Alexander Dietz, and others\.
 **Modeling and simulation of rat non\-barrel somatosensory cortex\. part i: modeling anatomy**\.
